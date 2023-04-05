@@ -9,3 +9,16 @@
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I am a Leftie...
 
+### About Me
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Ruby      |
+|     2| Rails     |
+|     3| React     |
+|     4| HTML      |
+|     5| CSS       |
+
+</details>
