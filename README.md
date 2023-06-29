@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ecommerce web application.
-- 🌱 I’m currently learning Ruby on Rails, React and Redux.
+- 🔭 I’m currently working on a project management tool application (Kanban clone)
+- 🌱 I’m currently learning state management using Redux.
 - 👯 I’m looking to collaborate on any RoR project
 - 📫 How to reach me: crmisoi2k@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
